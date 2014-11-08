@@ -1,0 +1,112 @@
+﻿/* here you can put your own css to customize and override the theme */
+	.header a.logo-v1 img 		{ height:32px;
+								}
+
+	#homeIntellistorePos		{ margin-top:80px;
+								}
+
+	
+	#homeIntellistorePos h4		{ font-weight:bolder ;
+								  font-size: 24px;
+						          color: rgb(109, 179, 109);
+						          line-height: 26px;
+								}
+	
+	#homeIntellistorePos h3 	{ margin-top: 0px;
+								  font-size: 42px;
+						          letter-spacing: -2px;
+						          color: #656565;
+						 		}
+
+	#homeDreamer				{/* background:url('../../assets/frontend/pages/img/textures/dots.png') repeat;*/
+								  margin-top:80px;
+								}
+	
+	#homeDreamer h3 			{ margin-top: 28px;
+							      margin-bottom:0px;
+								  font-size: 42px;
+						          letter-spacing: -2px;
+						          color: #656565;
+						 		}
+						 		
+	#homeDreamer h4 			{ font-weight:bolder ;
+								  font-size: 24px;
+						          color: #E94957;
+						          line-height: 26px;
+						 		}
+			
+	#homeDreamer img 			{ height:auto;
+								  width: auto;
+						 		}
+						 		
+	#homeTicks					{ background:url('../../pages/img/textures/separator.png') no-repeat bottom;
+								  margin-top:20px;
+								}
+								
+	#homeTicks h3 				{ margin-top: 100px;
+							      margin-bottom:0px;
+								  font-size: 42px;
+						          letter-spacing: -2px;
+						          color: #656565;
+						 		}
+						 		
+	#homeTicks h4 				{ font-weight:bolder ;
+								  font-size: 24px;
+						          color: #E9DB49;
+						          line-height: 26px;
+						 		}
+			
+	#homeTicks img 				{ height:auto;
+								  width: auto;
+								  padding-bottom:7px;
+								  margin-left: 14px;
+						 		}
+						 		
+	#homeUPOS					{ background:url('../../pages/img/textures/separator4.png') no-repeat bottom;
+								}
+								
+	#homeUPOS h3 				{ font-size: 42px;
+								  margin-bottom:0px;
+						          letter-spacing: -2px;
+						          color: #656565;
+						 		}
+						 		
+	#homeUPOS h4 				{ font-weight:bolder ;
+								  font-size: 24px;
+						          color: #49A6E9;
+						          line-height: 26px;
+						 		}
+			
+	#homeUPOS img 				{ height:70%;
+								  width: 70%;
+								  margin-top:-50px;
+								  padding-left:50px;
+						 		}
+						 		
+	#homeClients				{ margin-top:80px;
+							    }
+								
+	#homeClients h2 			{ margin-top:1px;
+						        }
+
+	#homeClients h3 			{ font-size: 42px;
+							      margin-top: 0px;
+								  margin-bottom:0px;
+						          letter-spacing: -2px;
+						          color: #656565;
+						 		}
+						 		
+	#homeClients h4 			{ font-weight:bolder ;
+								  font-size: 24px;
+						          color: #FB5DB5;
+						          line-height: 26px;
+						 		}
+
+	#homeClientsImg1			{ display:block;
+								  margin-bottom: 35px;
+								  margin-top: 15px;
+								  margin-left:auto;
+								  margin-right:auto;
+								 }
+	
+	

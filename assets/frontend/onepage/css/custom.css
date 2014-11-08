@@ -1,0 +1,197 @@
+/* Separation bar b4 Login - For OnePage page*/
+.header-navigation li.menu-search {
+    position: relative;
+    top: 0px;
+}
+.header-navigation li.menu-search span.sep {
+    top: 0px;
+    width: 1px;
+    height: 26px;
+    background: #eaeaea;
+    position: relative;
+    display: inline-block;
+}
+@media (max-width: 1024px) {
+    .header .header-navigation li > a:hover,
+    .header .header-navigation li.active > a,
+    .header .header-navigation li.open > a:hover {
+        color: #fff !important;
+    }
+    .header-navigation li.menu-search span.sep {
+        display: none;
+    }
+}
+
+.message-block {
+    position: relative;
+    min-height: 457px;
+    height: auto;
+    padding: 0 0 50px;
+    z-index: 0;
+    background: #292F34 url(../img/shopping_street.jpg) no-repeat fixed;
+    position: relative;
+}
+
+#homeIntellistorePos h2		{
+    margin-bottom: 0px;
+}
+
+#homeIntellistorePos h4		{
+    font-weight:bolder ;
+    font-size: 18px;
+    /*color: rgb(109, 179, 109);*/
+    line-height: 22px;
+    padding-top: 0px;
+
+}
+
+#homeIntellistorePos h3 	{
+    margin-top: 0px;
+    font-size: 42px;
+    letter-spacing: -2px;
+    color: #656565;
+}
+
+.btn-lg {
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.33;
+    vertical-align: middle;
+}
+.btn-lg > i {
+    font-size: 18px;
+}
+
+.btn > i {
+    font-size: 14px;
+}
+
+.tp-caption.black_bold_bg_20 {
+    font-family:"Open Sans"!important;
+}
+
+.vmeorange {
+    color: #E3701d!important;
+}
+
+.tp-caption.very_large_text {
+    position:absolute;
+    color:#fff;
+    text-shadow:0px 2px 5px rgba(0, 0, 0, 0.5);
+    font-weight:700;
+    font-size:60px;
+    line-height:60px;
+    font-family:Arial;
+    margin:0px;
+    border-width:0px;
+    border-style:none;
+    white-space:nowrap;
+    letter-spacing:-2px;
+}
+
+/* VME clients block*/
+.vme-clients-block {
+    background: #f6f6f6;
+    padding: 17px 0;
+}
+
+.vme-clients {
+}
+
+.vme-clients .vme-clients-item {
+}
+
+.vme-clients .vme-clients-item .vme-client-color-img {
+    display: none;
+}
+.vme-clients .vme-clients-item:hover img {
+    display: none;
+}
+.vme-clients .vme-clients-item:hover .vme-client-color-img {
+    display: block;
+}
+
+/* Facts block */
+.facts-block {
+    background: #fff url(../img/iStock_000042201466_XXXLarge.jpg) no-repeat fixed
+}
+.facts-block .item {
+    width: 220px;
+    height: 220px;
+}
+
+.slide_title {
+    font: 300 47px/66px "Open Sans", sans-serif;
+    color: #3f5862;
+    text-transform: uppercase;
+}
+
+.slide_subtitle {
+    font: 400 18px/25px "Open Sans", sans-serif;
+    background: #35aa47;
+    padding: 5px;
+    color: #fafafa;
+    text-transform: uppercase;
+}
+
+.services-block {
+    background: #ffffff;
+}
+
+/* Feature Box v1 */
+.feature-box-block {
+    background: #f6f6f6;
+    padding: 17px 0;
+    padding-top: 60px
+}
+
+.feature-box-v1 h3 {
+    font-size: 27px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+}
+
+.feature-box-v1 p {
+    margin-bottom: 20px;
+}
+
+.feature-box-v1 {
+    text-align: center;
+    padding: 15px;
+}
+
+.feature-box-v1 i {
+    padding: 15px;
+    font-size: 35px;
+}
+.feature-box-v1:hover {
+    background: #E3701d;
+    transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+}
+.feature-box-v1:hover i,
+.feature-box-v1:hover p,
+.feature-box-v1:hover h2,
+.feature-box-v1:hover h3 {
+    color: #fff;
+}
+
+
+/* Checkout block */
+.test-block {
+    padding: 25px 0;
+}
+.checkout-block p {
+    color: white;
+    font: 300 18px "Open Sans", Arial, sans-serif;
+    text-transform: none;
+    text-align: right;
+}
+
+.checkout-block span {
+    font: 800 36px "PT Sans Narrow", Arial, sans-serif;
+    margin: 2px 0 0;
+    text-align: left;
+}

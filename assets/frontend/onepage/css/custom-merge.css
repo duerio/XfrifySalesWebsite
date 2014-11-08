@@ -1,0 +1,57 @@
+/* Separation bar b4 Login - For Frontend customised page*/
+.header-navigation li.menu-search {
+    top: 0px;
+}
+.header-navigation li.menu-search span.sep {
+    margin: 0 0 0 0;
+}
+.site-logo {
+    margin-left: 0px;
+    padding-top: 12px;
+    padding-bottom: 0px;
+}
+.main {margin-top: 90px;}
+
+.content-page {
+    padding: 0px;
+    margin-right: 0px;
+}
+
+/***
+General typography
+***/
+/* Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+}
+
+h1 {
+    font-size: 33px;
+}
+
+h2 {
+    font-size: 27px;
+}
+
+h3 {
+    font-size: 23px;
+}
+
+h4 {
+    font-size: 17px;
+}
+
+h5 {
+    font-size: 13px;
+}
+
+h6 {
+    font-size: 12px;
+}
+
