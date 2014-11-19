@@ -1,0 +1,29 @@
+{
+    "name": "tahoewww",
+    "description": "Sales website for tahoe products",
+    "version": "0.1",
+    "keywords": [
+        "css",
+        "js",
+        "responsive",
+        "front-end",
+        "theme",
+        "web"
+    ],
+    "homepage": "http://www.xfrify.com",
+    "main": [
+        "dist/css/tahoewww.min.css",
+        "dist/js/tahoewww.min.js"
+    ],
+    "ignore": [
+        ".*",
+        "_config.yml",
+        "CNAME",
+        "composer.json"
+    ],
+    "dependencies": {
+        "jquery": "1.11.*",
+        "bootstrap": "3.1.*",
+        "font-awesome": "4.1.*"
+    }
+}
