@@ -1,7 +1,15 @@
-/*
-Icon classes can be used entirely standalone. They are named after their original file names.
+/*header*/
+.register-version.static-header { background: url('../img/background/server-farm-shot.jpg') top center no-repeat; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover; background-attachment: fixed; min-height: 1155px; position: relative; }
 
-```html
-<i class="icon-home"></i>
-```
-*/
+.fixmenu-clone.navigation-header .navigation-brand {
+    margin-right: 125px;
+    padding-left: 15px;
+    padding-right: 0px;
+}
+
+.navigation-brand .brand-logo .logo {
+    height: 40px;
+}
+
+
+.btn-primary { background: #FF1A7A; border:1px solid #FF1A7A; color: #fff; }
