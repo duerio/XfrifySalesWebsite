@@ -7,9 +7,7 @@
     padding-right: 0px;
 }
 
-.navigation-brand .brand-logo .logo {
-    height: 40px;
-}
-
 
 .btn-primary { background: #FF1A7A; border:1px solid #FF1A7A; color: #fff; }
+
+.navigation-brand .brand-logo .logo { display:block; height: 40px; background:url(../img/logo.png) center center no-repeat; }

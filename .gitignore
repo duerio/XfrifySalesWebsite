@@ -1,3 +1,5 @@
 .idea/
-Startuply/
 Graphics/
+_tmp/
+dist/
+thumbs.db

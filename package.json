@@ -17,6 +17,7 @@
     "grunt-minify-html": "^1.1.1",
     "grunt-processhtml": "^0.3.3",
     "grunt-sprite-generator": "0.0.5",
+    "grunt-text-replace": "^0.4.0",
     "grunt-uncss": "^0.3.7"
   },
   "dependencies": {
